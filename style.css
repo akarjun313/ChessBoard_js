@@ -1,0 +1,29 @@
+#parent{
+    height: 560px;
+    width: 560px;
+    background-color: antiquewhite;
+    padding: 0%;
+}
+
+
+.outer-box{
+    display: flex;
+    margin: 0%;
+    padding: 0%;
+    border: 0px;
+}
+
+/* Inner divs */
+.box{
+    width: 70px;
+    height: 70px;
+    margin: 0%;
+}
+
+/* Inner div colors */
+.white{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}
